@@ -1,11 +1,11 @@
-# JenkinsProject
+# JenkinsProject 
 Jenkins Project / Author : Richard Hamme
 
 This project provisions a multi-node Jenkins cluster using Docker. 
 
 Provisioning Instructions
 
-1) Download or clone the Github reposity to a local folder
+1) Download or clone the Github reposity to a local folder.
 
 2) Download the Terraform executable from Hashicorp and copy to the local folder with the downloaded scripts.
 https://www.terraform.io/downloads.html
